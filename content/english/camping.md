@@ -12,7 +12,7 @@ banner:
   bg_image: "images/camping-banner.jpg"
 
 copyblock:
-    text: We have 10 private non-electric pitches for camper vans, tents, trailer tents, motorhomes (up to 25ft) and day vans. If you're concerned about Wales' climate, there's no need to fret — we have a walk-in drying room to dry clothes and boots, and a large shelter with seating for you to relax under, come rain or shine.
+    text: We have 10 private non-electric pitches for camper vans, tents, trailer tents, motorhomes (up to 25ft) and day vans. If you're concerned about Wales' climate, there's no need to fret — we have a walk-in drying room to dry clothes and boots, and a large shelter with seating for you to relax under, come rain or shine. As we are located next to the Afan Forest, we may restrict the use of BBQs and firepits if conditions become conducive for forest fires.
 
 offerings:
 - title: Tents, vans and motorhomes
@@ -20,9 +20,9 @@ offerings:
   price: £16/night
   features:
   - text: Private pitch
-  - text: Free for dogs and children under 10
+  - text: Free for dogs and babies
   - text: Additional people are £8/night
-  - text: Parking space within your pitch
+  - text: 1 parking space within your pitch
   - text: Suitable for vehicles up to 25ft
   - text: No extra charge for showers, drying room gazebos, awnings
   - text: BBQs and fires allowed
@@ -31,12 +31,13 @@ offerings:
   subtitle: These are available to all campers
   price: Free
   features:
-  - text: 3 bathrooms with showers and toilet
-  - text: Sheltered sink for washing up
+  - text: 3 bathrooms with hot showers and toilet
+  - text: Sheltered sink for washing clothes and dishes
   - text: Solar-powered drying room
   - text: Sheltered area with tables and chairs for when it's rainy
-  - text: Spring water for drinking and washing
-  - text: WC disposal area
+  - text: Spring water
+  - text: Grey water and chemical disposal
+  - text: Wash area for bikes and dogs
 
 extras:
     title: Additional extras
