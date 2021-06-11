@@ -16,11 +16,12 @@ about:
   enable: true
   description: "We are a small, eco-friendly campsite in the heart of the Afan Forest Park in Neath Port Talbot, South Wales. The Afan Valley is popular with outdoor enthusiasts, walkers, mountain bikers, cyclists, and intrepid explorers. Our campsite is the perfect setting for a quiet retreat, surrounded by panoramic vistas, home to abundant wildlife."
   features:
-  - text: Family-sized shower, toilets and washing up area
-  - text: Solar-powered drying room and laundry
+  - text: Family-sized bathrooms with hot water
+  - text: Solar-powered drying room
   - text: BBQs and fires allowed
   - text: Sheltered area for meals on rainy days
-  - text: Free for dogs and children under 10
+  - text: Grey water and chemical disposal
+  - text: Dogs welcome (on a leash)
 
 camping:
   enable: true
