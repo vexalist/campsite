@@ -17,11 +17,11 @@ copyblock:
 offerings:
 - title: Tents, vans and motorhomes
   subtitle: Price includes 2 people and 2 dogs
-  price: £16/night
+  price: £20/night
   features:
   - text: Private pitch
   - text: Free for dogs and babies
-  - text: Additional people are £8/night
+  - text: Additional people are £10/night
   - text: 1 parking space within your pitch
   - text: Suitable for vehicles up to 25ft
   - text: No extra charge for showers, drying room gazebos, awnings
@@ -35,7 +35,7 @@ offerings:
   - text: Sheltered sink for washing clothes and dishes
   - text: Solar-powered drying room
   - text: Sheltered area with tables and chairs for when it's rainy
-  - text: Spring water
+  - text: Free spring water
   - text: Grey water and chemical disposal
   - text: Wash area for bikes and dogs
 
@@ -56,7 +56,7 @@ extras:
     - name: Firewood kindling
       price: £5
     - name: Smidge insect repellent
-      price: £10
+      price: £7
     - name: After bite
       price: £5
     - name: Midge head net
