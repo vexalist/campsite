@@ -18,10 +18,10 @@ copyblock:
 offerings:
 - title: Nutmeg (the fancy one)
   subtitle: Up to 4 people and 2 dogs
-  price: £70/night
+  price: £80/night
   features:
   - text: Fitted double bed with orthopedic mattress
-  - text: Sofa bed
+  - text: Small sofa bed
   - text: Private firepit
   - text: Bistro table and 2 chairs
   - text: Separate cookhouse
@@ -30,10 +30,10 @@ offerings:
 
 - title: Clover and daisy
   subtitle: Up to 4 people and 2 dogs
-  price: £60/night
+  price: £70/night
   features:
-  - text: Fitted double bed with orthopedic mattress
-  - text: Sofa bed
+  - text: Fitted double bed
+  - text: Small sofa bed
   - text: Private firepit
   - text: Bistro table and 2 chairs
   - text: Picnic table
@@ -76,7 +76,7 @@ extras:
     - name: Firewood kindling
       price: £5
     - name: Smidge insect repellent
-      price: £10
+      price: £7
     - name: After bite
       price: £5
     - name: Midge head net
